@@ -13,4 +13,4 @@ A simple 2D Python game designed to teach you the pygame module
 
 👉 Experience Exciting and interactive games!
 
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!
+No experience needed—just your determination. Future-proof your career and unlock six-figure potential.
